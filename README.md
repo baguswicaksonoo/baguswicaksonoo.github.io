@@ -85,12 +85,4 @@
 <li class='name'><a href='https://cupeeet.blogspot.com/p/about-us_8.html' itemprop='url'>About Me</a></li>
 </ul></div>				</nav>
   <!-- end of primary navigation -->
- <a href='https://www.youtube.com/channel/UCCnwXknoogSKvBAtlrollwg/'><img height='30' src='https://lh3.googleusercontent.com/-LlKfUR6Vtzg/XaG5pyl9F7I/AAAAAAAAAvI/t4AW3kCCkro7xpf2kubvuJks-JPi9EwXwCLcBGAsYHQ/h80/yt_logo_rgb_dark.png' width='90'/></a> <center><script>
-var d=new Date();
-var monthname=new Array(&quot;Jan&quot;,&quot;Feb&quot;,&quot;Mar&quot;,&quot;Apr&quot;,&quot;May&quot;,&quot;Jun&quot;,&quot;Jul&quot;,&quot;Aug&quot;,&quot;Sep&quot;,&quot;Oct&quot;,&quot;Nov&quot;,&quot;Dec&quot;);
-document.write(monthname[d.getMonth()] + &quot; &quot;);
-document.write(d.getDate() + &quot;, &quot;);
-document.write(d.getFullYear());
-  </script></center>
- <center> <a href='https://wa.me/+6287778488449'><img alt='' height='40' src='https://lh3.googleusercontent.com/-TEdh3kd-g2M/XZ90RuJa_4I/AAAAAAAAAu8/cKBeIoEa2xEs5Ccz2AIe5nDlZl8i8m4gwCLcBGAsYHQ/h120/WhatsApp_Logo_1.png' width='40'/><br/>WhatsApp</a></center>
-m
+ <a href='https://www.youtube.com/channel/UCCnwXknoogSKvBAtlrollwg/'><img height='30' src='https://lh3.googleusercontent.com/-LlKfUR6Vtzg/XaG5pyl9F7I/AAAAAAAAAvI/t4AW3kCCkro7xpf2kubvuJks-JPi9EwXwCLcBGAsYHQ/h80/yt_logo_rgb_dark.png' width='90'/></a> <center> <a href='https://wa.me/+6287778488449'><img alt='' height='40' src='https://lh3.googleusercontent.com/-TEdh3kd-g2M/XZ90RuJa_4I/AAAAAAAAAu8/cKBeIoEa2xEs5Ccz2AIe5nDlZl8i8m4gwCLcBGAsYHQ/h120/WhatsApp_Logo_1.png' width='40'/><br/>WhatsApp</a></center>
