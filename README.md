@@ -10,7 +10,37 @@
     <meta content='kumpulan film movie,tutorial' name='description'/>
 <meta content='the legend of speed,fight back to school,melihat status  whatsapp,film,dangerous boys, movie, nonton,Anime,nonton online,nonton anime sub indo online,nonton movie sub indo online,lalajo film' name='keywords'/>
     <meta content='1s7Q8eSVsVofFS4Nc-jfnaG0TNhLNLgZaDdn55kGY1I' name='google-site-verification=google371d2a902edeb11b.html'/>
-    ]]></b:skin>
+    ]]></b:skin><meta content='kumpulan film movie,tutorial' name='description'/>
+<meta content='the legend of speed,fight back to school,melihat status  whatsapp,film,dangerous boys, movie, nonton,Anime,nonton online,nonton anime sub indo online,nonton movie sub indo online,lalajo film' name='keywords'/>
+    <meta content='1s7Q8eSVsVofFS4Nc-jfnaG0TNhLNLgZaDdn55kGY1I' name='google-site-verification=google371d2a902edeb11b.html'/>
+<link expr:href='data:blog.homepageUrl + &quot;favicon.ico&quot;' rel='icon' type='image/x-icon'/>
+<link expr:href='data:blog.url' rel='canonical'/>
+<link expr:href='data:blog.homepageUrl + &quot;feeds/posts/default&quot;' expr:title='data:blog.title + &quot; - Atom&quot;' rel='alternate' type='application/atom+xml'/>
+<link expr:href='data:blog.homepageUrl + &quot;feeds/posts/default?alt=rss&quot;' expr:title='data:blog.title + &quot; - RSS&quot;' rel='alternate' type='application/rss+xml'/>
+<link expr:href='&quot;http://www.blogger.com/feeds/&quot; + data:blog.blogId + &quot;/posts/default&quot;' expr:title='data:blog.title + &quot; - Atom&quot;' rel='alternate' type='application/atom+xml'/>
+<link href='http://www.blogger.com/openid-server.g' rel='openid.server'/>
+<link expr:href='data:blog.homepageUrl' rel='openid.delegate'/>
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<b:if cond='data:blog.postImageThumbnailUrl'>
+<link expr:href='data:blog.postImageThumbnailUrl' rel='image_src'/>
+</b:if>
+<b:if cond='data:blog.metaDescription != &quot;&quot;'>
+<meta expr:content='data:blog.metaDescription' name='description'/>
+<b:else/>
+<meta expr:content='data:blog.pageName + &quot; - &quot; + data:blog.title' name='description'/>
+</b:if>
+</b:if>
+    <b:include data='blog' name='all-head-content'/>
+
+    <!-- SEO Title Tag -->
+<b:if cond='data:blog.url == data:blog.homepageUrl'><title><data:blog.title/></title></b:if>
+<b:if cond='data:blog.pageType == &quot;item&quot;'><title><data:blog.pageName/> - <data:blog.title/></title></b:if>
+<b:if cond='data:blog.pageType == &quot;archive&quot;'><title>Archive for <data:blog.pageName/></title></b:if>
+<b:if cond='data:blog.pageType == &quot;static_page&quot;'><title><data:blog.pageName/></title></b:if>
+<b:if cond='data:blog.pageType == &quot;index&quot;'><b:if cond='data:blog.searchLabel'><title><data:blog.title/> - <data:blog.pageName/></title></b:if></b:if>
+<b:if cond='data:blog.pageType == &quot;error_page&quot;'><title>Page Not Found</title></b:if>
+<b:if cond='data:blog.pageType == &quot;index&quot;'><b:if cond='data:blog.url != data:blog.homepageUrl'><title><data:blog.pageTitle/> - All Post</title></b:if></b:if>
+
 
 <style type='text/css'>
 .menu {width: 90%; 
