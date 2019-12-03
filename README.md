@@ -4,8 +4,7 @@
   <?xml version="1.0" encoding="UTF-8" ?>
 <meta name="google-site-verification" content="WzVPIAr7l6-fCN4459e6kMHIXBFyik3gFcnvdTwInyc" />
 <html b:version='2' class='v2'  xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
-  <head>
-    <meta name="google-site-verification" content="WzVPIAr7l6-fCN4459e6kMHIXBFyik3gFcnvdTwInyc" />
+  <head><meta name="google-site-verification" content="WzVPIAr7l6-fCN4459e6kMHIXBFyik3gFcnvdTwInyc" />
     <meta content='width=device-width, initial-scale=1' name='viewport'/>
 <meta content='blogger' name='generator'/>
 <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
