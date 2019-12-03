@@ -84,6 +84,5 @@
  <a href='https://www.youtube.com/channel/UCCnwXknoogSKvBAtlrollwg/'><img height='30' src='https://lh3.googleusercontent.com/-LlKfUR6Vtzg/XaG5pyl9F7I/AAAAAAAAAvI/t4AW3kCCkro7xpf2kubvuJks-JPi9EwXwCLcBGAsYHQ/h80/yt_logo_rgb_dark.png' width='90'/></a> <center> <a href='https://wa.me/+6287778488449'><img alt='' height='40' src='https://lh3.googleusercontent.com/-TEdh3kd-g2M/XZ90RuJa_4I/AAAAAAAAAu8/cKBeIoEa2xEs5Ccz2AIe5nDlZl8i8m4gwCLcBGAsYHQ/h120/WhatsApp_Logo_1.png' width='40'/><br/>WhatsApp</a></center>
  <body expr:class='&quot;loading&quot; + data:blog.mobileClass'>
   <!-- content -->
-  <center><a href='http://creativecommons.org/licenses/by-nc-nd/4.0/' rel='license'><img alt='Creative Commons License' src='https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png' style='border-width:0'/></a><br/>This work is licensed under a <a href='http://creativecommons.org/licenses/by-nc-nd/4.0/' rel='license'>Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a></center>
   </body>
- <b:section-contents id='footer-1'/><b:section-contents id='footer-2-1'/><b:section-contents id='footer-2-2'/></html>
+  </html>
