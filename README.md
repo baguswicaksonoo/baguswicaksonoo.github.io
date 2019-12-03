@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <html b:version='2' class='v2'  xmlns='http://www.w3.org/1999/xhtml' lang='id'>
   <head>
-    <!-- meta Title Tag -->
-    <meta name="google-site-verification" content="WzVPIAr7l6-fCN4459e6kMHIXBFyik3gFcnvdTwInyc" />
     <meta content='width=device-width, initial-scale=1' name='viewport'/>
 <meta content='blogger' name='generator'/>
 <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
 <meta content='IE=Edge' http-equiv='X-UA-Compatible'/>
-    <meta content='kumpulan film movie,tutorial' name='description'/>
     <meta content='kumpulan film movie,tutorial' name='description'/>
 <meta content='the legend of speed,fight back to school,melihat status  whatsapp,film,dangerous boys, movie, nonton,Anime,nonton online,nonton anime sub indo online,nonton movie sub indo online,lalajo film' name='keywords'/>
    <meta name="google-site-verification" content="WzVPIAr7l6-fCN4459e6kMHIXBFyik3gFcnvdTwInyc" />
@@ -85,5 +82,8 @@
 </ul></div>				</nav>
   <!-- end of primary navigation -->
  <a href='https://www.youtube.com/channel/UCCnwXknoogSKvBAtlrollwg/'><img height='30' src='https://lh3.googleusercontent.com/-LlKfUR6Vtzg/XaG5pyl9F7I/AAAAAAAAAvI/t4AW3kCCkro7xpf2kubvuJks-JPi9EwXwCLcBGAsYHQ/h80/yt_logo_rgb_dark.png' width='90'/></a> <center> <a href='https://wa.me/+6287778488449'><img alt='' height='40' src='https://lh3.googleusercontent.com/-TEdh3kd-g2M/XZ90RuJa_4I/AAAAAAAAAu8/cKBeIoEa2xEs5Ccz2AIe5nDlZl8i8m4gwCLcBGAsYHQ/h120/WhatsApp_Logo_1.png' width='40'/><br/>WhatsApp</a></center>
-</b:widget>
+ <body expr:class='&quot;loading&quot; + data:blog.mobileClass'>
+  <center><a href='http://creativecommons.org/licenses/by-nc-nd/4.0/' rel='license'><img alt='Creative Commons License' src='https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png' style='border-width:0'/></a><br/>This work is licensed under a <a href='http://creativecommons.org/licenses/by-nc-nd/4.0/' rel='license'>Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a></center>
+  </body>
+ </b:widget>
 </b:section-contents><b:section-contents id='footer-1'/><b:section-contents id='footer-2-1'/><b:section-contents id='footer-2-2'/></html>
