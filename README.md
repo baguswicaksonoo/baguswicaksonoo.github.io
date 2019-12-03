@@ -30,16 +30,6 @@
 </b:if>
     <b:include data='blog' name='all-head-content'/>
 
-    <!-- SEO Title Tag -->
-<b:if cond='data:blog.url == data:blog.homepageUrl'><title><data:blog.title/></title></b:if>
-<b:if cond='data:blog.pageType == &quot;item&quot;'><title><data:blog.pageName/> - <data:blog.title/></title></b:if>
-<b:if cond='data:blog.pageType == &quot;archive&quot;'><title>Archive for <data:blog.pageName/></title></b:if>
-<b:if cond='data:blog.pageType == &quot;static_page&quot;'><title><data:blog.pageName/></title></b:if>
-<b:if cond='data:blog.pageType == &quot;index&quot;'><b:if cond='data:blog.searchLabel'><title><data:blog.title/> - <data:blog.pageName/></title></b:if></b:if>
-<b:if cond='data:blog.pageType == &quot;error_page&quot;'><title>Page Not Found</title></b:if>
-<b:if cond='data:blog.pageType == &quot;index&quot;'><b:if cond='data:blog.url != data:blog.homepageUrl'><title><data:blog.pageTitle/> - All Post</title></b:if></b:if>
-
-
 <style type='text/css'>
 .menu {width: 90%; 
    border:8px solid #ff0;
