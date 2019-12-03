@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
 <html b:version='2' class='v2'  xmlns='http://www.w3.org/1999/xhtml' lang='id'>
   <head>
     <meta content='width=device-width, initial-scale=1' name='viewport'/>
@@ -7,6 +8,7 @@
 <meta content='IE=Edge' http-equiv='X-UA-Compatible'/>
     <meta content='kumpulan film movie,tutorial' name='description'/>
 <meta content='the legend of speed,fight back to school,melihat status  whatsapp,film,dangerous boys, movie, nonton,Anime,nonton online,nonton anime sub indo online,nonton movie sub indo online,lalajo film' name='keywords'/>
+    <meta content='1s7Q8eSVsVofFS4Nc-jfnaG0TNhLNLgZaDdn55kGY1I' name='google-site-verification=google371d2a902edeb11b.html'/>
    <meta name="google-site-verification" content="WzVPIAr7l6-fCN4459e6kMHIXBFyik3gFcnvdTwInyc" />
 <meta content='the legend of speed,fight back to school,melihat status  whatsapp,film,dangerous boys, movie, nonton,Anime,nonton online,nonton anime sub indo online,nonton movie sub indo online,lalajo film' name='keywords'/>
 <link expr:href='data:blog.homepageUrl + &quot;favicon.ico&quot;' rel='icon' type='image/x-icon'/>
