@@ -10,6 +10,7 @@
     <meta content='kumpulan film movie,tutorial' name='description'/>
     <meta content='kumpulan film movie,tutorial' name='description'/>
 <meta content='the legend of speed,fight back to school,melihat status  whatsapp,film,dangerous boys, movie, nonton,Anime,nonton online,nonton anime sub indo online,nonton movie sub indo online,lalajo film' name='keywords'/>
+    <meta name="google-site-verification" content="WzVPIAr7l6-fCN4459e6kMHIXBFyik3gFcnvdTwInyc" />
     <meta content='1s7Q8eSVsVofFS4Nc-jfnaG0TNhLNLgZaDdn55kGY1I' name='google-site-verification=google371d2a902edeb11b.html'/>
 <meta content='the legend of speed,fight back to school,melihat status  whatsapp,film,dangerous boys, movie, nonton,Anime,nonton online,nonton anime sub indo online,nonton movie sub indo online,lalajo film' name='keywords'/>
     <meta name="google-site-verification" content="WzVPIAr7l6-fCN4459e6kMHIXBFyik3gFcnvdTwInyc" /><meta name="google-site-verification" content="WzVPIAr7l6-fCN4459e6kMHIXBFyik3gFcnvdTwInyc" />
